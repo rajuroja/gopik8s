@@ -1,0 +1,155 @@
+2022-01-28 00:00:31.107  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:05:31.126  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:10:31.129  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:15:31.140  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:20:31.150  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:25:31.163  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:30:31.172  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:35:31.182  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:40:31.192  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:45:31.209  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:50:31.226  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:55:31.232  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:00:31.239  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:05:31.247  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:10:31.260  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:15:31.267  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:20:31.279  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:25:31.286  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:30:31.299  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:35:31.303  INFO 16316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:09:26.841  INFO 8048 --- [main] c.e.SpringCloudConfigServerApplication   : Starting SpringCloudConfigServerApplication using Java 1.8.0_91 on DESKTOP-NPR9S4C with PID 8048 (D:\eclipse-workspace\spring-cloud-config-server\target\classes started by Akash Budhwani in D:\eclipse-workspace\spring-cloud-config-server)
+2022-01-28 12:09:26.847  INFO 8048 --- [main] c.e.SpringCloudConfigServerApplication   : No active profile set, falling back to default profiles: default
+2022-01-28 12:09:28.736  INFO 8048 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=981fffb7-2358-3b5a-8053-ffb36730155a
+2022-01-28 12:09:29.233  INFO 8048 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-01-28 12:09:29.247  INFO 8048 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-28 12:09:29.248  INFO 8048 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2022-01-28 12:09:29.457  INFO 8048 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-28 12:09:29.458  INFO 8048 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2546 ms
+2022-01-28 12:09:34.331  INFO 8048 --- [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2022-01-28 12:09:34.446  WARN 8048 --- [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-01-28 12:09:34.458  INFO 8048 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-01-28 12:09:34.567  INFO 8048 --- [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2022-01-28 12:09:34.629  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2022-01-28 12:09:34.639  INFO 8048 --- [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:09:34.682  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2022-01-28 12:09:34.682  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2022-01-28 12:09:34.685  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2022-01-28 12:09:34.686  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2022-01-28 12:09:34.686  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2022-01-28 12:09:34.687  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2022-01-28 12:09:34.687  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2022-01-28 12:09:35.039  INFO 8048 --- [RMI TCP Connection(3)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-28 12:09:35.039  INFO 8048 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-01-28 12:09:35.042  INFO 8048 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-01-28 12:09:35.282  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2022-01-28 12:09:35.286  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2022-01-28 12:09:35.291  INFO 8048 --- [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-01-28 12:09:35.300  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1643351975298 with initial instances count: 0
+2022-01-28 12:09:35.302  INFO 8048 --- [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application CONFIG-SERVER with eureka with status UP
+2022-01-28 12:09:35.303  INFO 8048 --- [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643351975303, current=UP, previous=STARTING]
+2022-01-28 12:09:35.306  INFO 8048 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:config-server:8888: registering service...
+2022-01-28 12:09:35.348  INFO 8048 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-01-28 12:09:35.350  INFO 8048 --- [main] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8888
+2022-01-28 12:09:35.559  INFO 8048 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:config-server:8888 - registration status: 204
+2022-01-28 12:09:35.763  INFO 8048 --- [main] c.e.SpringCloudConfigServerApplication   : Started SpringCloudConfigServerApplication in 10.027 seconds (JVM running for 11.57)
+2022-01-28 12:10:05.287  INFO 8048 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2022-01-28 12:10:05.288  INFO 8048 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2022-01-28 12:10:05.290  INFO 8048 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2022-01-28 12:10:05.291  INFO 8048 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2022-01-28 12:10:05.292  INFO 8048 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2022-01-28 12:10:05.292  INFO 8048 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Application version is -1: false
+2022-01-28 12:10:05.293  INFO 8048 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2022-01-28 12:10:05.336  INFO 8048 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2022-01-28 12:10:49.604  INFO 8048 --- [http-nio-8888-exec-1] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\api-router.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:10:49.605  INFO 8048 --- [http-nio-8888-exec-1] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:12:02.329  INFO 8048 --- [http-nio-8888-exec-2] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\ratings-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:12:02.331  INFO 8048 --- [http-nio-8888-exec-2] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:12:54.328  INFO 8048 --- [http-nio-8888-exec-3] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:12:54.328  INFO 8048 --- [http-nio-8888-exec-3] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:13:06.829  INFO 8048 --- [http-nio-8888-exec-5] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\user-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:13:06.829  INFO 8048 --- [http-nio-8888-exec-5] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:14:31.230  INFO 8048 --- [http-nio-8888-exec-8] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\user-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:14:31.231  INFO 8048 --- [http-nio-8888-exec-8] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:14:34.706  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:15:03.732  INFO 8048 --- [http-nio-8888-exec-10] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\user-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:15:03.733  INFO 8048 --- [http-nio-8888-exec-10] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:19:34.722  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:24:34.730  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:29:34.736  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:34:34.749  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:39:34.762  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:40:54.348  INFO 8048 --- [http-nio-8888-exec-2] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\ratings-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:40:54.348  INFO 8048 --- [http-nio-8888-exec-2] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:44:34.776  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:49:34.782  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:53:15.061  INFO 8048 --- [http-nio-8888-exec-3] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\ratings-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:53:15.061  INFO 8048 --- [http-nio-8888-exec-3] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:54:34.790  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:54:56.966  INFO 8048 --- [http-nio-8888-exec-5] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\ratings-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:54:56.967  INFO 8048 --- [http-nio-8888-exec-5] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:54:59.807  INFO 8048 --- [http-nio-8888-exec-6] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:54:59.807  INFO 8048 --- [http-nio-8888-exec-6] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:55:15.160  INFO 8048 --- [http-nio-8888-exec-7] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\ratings-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:55:15.161  INFO 8048 --- [http-nio-8888-exec-7] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:55:47.247  INFO 8048 --- [http-nio-8888-exec-8] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\ratings-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:55:47.249  INFO 8048 --- [http-nio-8888-exec-8] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 12:59:34.806  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:04:34.825  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:09:34.837  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:14:34.842  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:19:34.858  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:24:34.870  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:29:34.877  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:34:34.885  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:39:34.890  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:44:34.899  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:49:34.905  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:54:34.915  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:59:34.929  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:04:34.941  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:09:34.955  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:14:34.972  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:19:34.982  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:24:34.996  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:29:35.004  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:34:35.013  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:39:35.020  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:44:35.031  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:45:09.921  INFO 8048 --- [http-nio-8888-exec-1] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\user-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:45:09.922  INFO 8048 --- [http-nio-8888-exec-1] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:49:35.046  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:54:35.056  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:56:58.083  INFO 8048 --- [http-nio-8888-exec-2] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:56:58.084  INFO 8048 --- [http-nio-8888-exec-2] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:57:53.661  INFO 8048 --- [http-nio-8888-exec-3] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:57:53.662  INFO 8048 --- [http-nio-8888-exec-3] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:58:06.710  INFO 8048 --- [http-nio-8888-exec-4] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:58:06.711  INFO 8048 --- [http-nio-8888-exec-4] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:58:14.801  INFO 8048 --- [http-nio-8888-exec-5] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:58:14.803  INFO 8048 --- [http-nio-8888-exec-5] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:58:44.612  INFO 8048 --- [http-nio-8888-exec-6] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:58:44.612  INFO 8048 --- [http-nio-8888-exec-6] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:58:49.220  INFO 8048 --- [http-nio-8888-exec-7] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:58:49.220  INFO 8048 --- [http-nio-8888-exec-7] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 14:59:35.064  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:04:35.073  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:09:28.013  INFO 8048 --- [http-nio-8888-exec-8] .c.s.e.MultipleJGitEnvironmentRepository : Fetched for remote main and found 1 updates
+2022-01-28 15:09:28.195  INFO 8048 --- [http-nio-8888-exec-8] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 15:09:28.195  INFO 8048 --- [http-nio-8888-exec-8] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 15:09:35.085  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:14:35.094  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:16:47.725  INFO 8048 --- [http-nio-8888-exec-10] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\movie-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 15:16:47.725  INFO 8048 --- [http-nio-8888-exec-10] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 15:17:26.797  INFO 8048 --- [http-nio-8888-exec-1] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\user-service.properties]' via location 'file:/C://config-repo/'
+2022-01-28 15:17:26.797  INFO 8048 --- [http-nio-8888-exec-1] o.s.c.c.s.e.NativeEnvironmentRepository  : Adding property source: Config resource 'file [C:\config-repo\application.properties]' via location 'file:/C://config-repo/'
+2022-01-28 15:19:35.111  INFO 8048 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:20:28.320  INFO 8048 --- [RMI TCP Connection(194)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-01-28 15:20:28.344  INFO 8048 --- [RMI TCP Connection(194)-127.0.0.1] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CONFIG-SERVER with eureka with status DOWN
+2022-01-28 15:20:28.344  INFO 8048 --- [RMI TCP Connection(194)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643363428344, current=DOWN, previous=UP]
+2022-01-28 15:20:28.345  INFO 8048 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:config-server:8888: registering service...
+2022-01-28 15:20:28.387  INFO 8048 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:config-server:8888 - registration status: 204
+2022-01-28 15:20:28.761  INFO 8048 --- [RMI TCP Connection(194)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2022-01-28 15:20:31.790  INFO 8048 --- [RMI TCP Connection(194)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2022-01-28 15:20:31.807  INFO 8048 --- [RMI TCP Connection(194)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:config-server:8888 - deregister  status: 200
+2022-01-28 15:20:31.827  INFO 8048 --- [RMI TCP Connection(194)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient

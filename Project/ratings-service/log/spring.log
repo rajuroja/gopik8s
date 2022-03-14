@@ -1,0 +1,422 @@
+2022-01-28 00:02:44.291  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:07:44.384  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:12:44.385  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:17:44.401  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:22:44.417  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:27:44.428  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:32:44.433  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:37:44.440  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:42:44.449  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:47:44.461  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:52:44.472  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 00:57:44.487  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:02:44.494  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:07:44.499  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:12:44.509  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:17:44.520  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:22:44.533  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:27:44.534  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:32:44.538  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 01:37:44.541  INFO 17120 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:12:01.507  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at : http://192.168.0.103:8888/
+2022-01-28 12:12:02.361  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=ratings-service, profiles=[default], label=null, version=f9f50d9e933f7cd2a82bdca3cb5604b2176402e0, state=null
+2022-01-28 12:12:02.366  INFO 7212 --- [restartedMain] b.c.PropertySourceBootstrapConfiguration : Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\ratings-service.properties'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\application.properties'}]
+2022-01-28 12:12:02.510  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : No active profile set, falling back to default profiles: default
+2022-01-28 12:12:06.732  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-01-28 12:12:07.294  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 546 ms. Found 1 MongoDB repository interfaces.
+2022-01-28 12:12:08.202  INFO 7212 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=f1cf397f-151e-3da4-919e-d7ddfd3e0ffc
+2022-01-28 12:12:10.969  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10090 (http)
+2022-01-28 12:12:11.000  INFO 7212 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-28 12:12:11.000  INFO 7212 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-28 12:12:11.544  INFO 7212 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-28 12:12:11.548  INFO 7212 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 8910 ms
+2022-01-28 12:12:13.086  INFO 7212 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-01-28 12:12:13.326  INFO 7212 --- [cluster-rtt-ClusterId{value='61f390459fc24c41259e79b1', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:2}] to localhost:27017
+2022-01-28 12:12:13.330  INFO 7212 --- [cluster-ClusterId{value='61f390459fc24c41259e79b1', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:1}] to localhost:27017
+2022-01-28 12:12:13.331  INFO 7212 --- [cluster-ClusterId{value='61f390459fc24c41259e79b1', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=84822600}
+2022-01-28 12:12:13.533  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:12:13.887  WARN 7212 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-01-28 12:12:14.100  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:12:15.748  INFO 7212 --- [restartedMain] o.s.c.openfeign.FeignClientFactoryBean   : For 'user-service' URL not provided. Will try picking an instance via load-balancing.
+2022-01-28 12:12:22.495  INFO 7212 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2022-01-28 12:12:22.780  WARN 7212 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-01-28 12:12:22.811  INFO 7212 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-01-28 12:12:23.010  INFO 7212 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2022-01-28 12:12:23.156  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2022-01-28 12:12:23.168  INFO 7212 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:12:23.231  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2022-01-28 12:12:23.231  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2022-01-28 12:12:23.232  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2022-01-28 12:12:23.232  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2022-01-28 12:12:23.232  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2022-01-28 12:12:23.232  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2022-01-28 12:12:23.233  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2022-01-28 12:12:23.315  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2022-01-28 12:12:23.319  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2022-01-28 12:12:23.326  INFO 7212 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-01-28 12:12:23.340  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1643352143337 with initial instances count: 2
+2022-01-28 12:12:23.357  INFO 7212 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application CONFIG-SERVER with eureka with status UP
+2022-01-28 12:12:23.358  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643352143358, current=UP, previous=STARTING]
+2022-01-28 12:12:23.363  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:12:23.429  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10090 (http) with context path ''
+2022-01-28 12:12:23.431  INFO 7212 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 10090
+2022-01-28 12:12:23.485  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:12:23.914  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : Started RatingsServiceApplication in 33.044 seconds (JVM running for 34.905)
+2022-01-28 12:17:23.239  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:17:57.180  INFO 7212 --- [http-nio-10090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-28 12:17:57.181  INFO 7212 --- [http-nio-10090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-01-28 12:17:57.195  INFO 7212 --- [http-nio-10090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 14 ms
+2022-01-28 12:17:57.354  INFO 7212 --- [http-nio-10090-exec-1] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 12:17:57.363 ERROR 7212 --- [http-nio-10090-exec-1] c.i.rating.controller.RatingsController  : Error in RatingsController :: getUserRatings() port out of range:1000000
+2022-01-28 12:17:57.884  INFO 7212 --- [http-nio-10090-exec-1] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 12:17:57.910 ERROR 7212 --- [http-nio-10090-exec-1] c.i.rating.controller.RatingsController  : Error in RatingsController :: getUserRatings() port out of range:1000000
+2022-01-28 12:17:58.413  INFO 7212 --- [http-nio-10090-exec-1] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 12:17:58.421 ERROR 7212 --- [http-nio-10090-exec-1] c.i.rating.controller.RatingsController  : Error in RatingsController :: getUserRatings() port out of range:1000000
+2022-01-28 12:22:23.256  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:27:23.272  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:32:23.276  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:37:23.293  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:40:48.445  INFO 7212 --- [Thread-3] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CONFIG-SERVER with eureka with status DOWN
+2022-01-28 12:40:48.447  INFO 7212 --- [Thread-3] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643353848447, current=DOWN, previous=UP]
+2022-01-28 12:40:48.450  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:40:48.505  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:40:49.185  INFO 7212 --- [Thread-3] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2022-01-28 12:40:52.202  INFO 7212 --- [Thread-3] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2022-01-28 12:40:52.217  INFO 7212 --- [Thread-3] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - deregister  status: 200
+2022-01-28 12:40:52.237  INFO 7212 --- [Thread-3] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2022-01-28 12:40:53.575  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at : http://192.168.0.103:8888/
+2022-01-28 12:40:54.358  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=ratings-service, profiles=[default], label=null, version=f9f50d9e933f7cd2a82bdca3cb5604b2176402e0, state=null
+2022-01-28 12:40:54.359  INFO 7212 --- [restartedMain] b.c.PropertySourceBootstrapConfiguration : Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\ratings-service.properties'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\application.properties'}]
+2022-01-28 12:40:54.371  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : No active profile set, falling back to default profiles: default
+2022-01-28 12:40:55.106  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-01-28 12:40:55.119  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 1 MongoDB repository interfaces.
+2022-01-28 12:40:55.261  INFO 7212 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=f1cf397f-151e-3da4-919e-d7ddfd3e0ffc
+2022-01-28 12:40:55.778  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10090 (http)
+2022-01-28 12:40:55.779  INFO 7212 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-28 12:40:55.780  INFO 7212 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-28 12:40:55.810  INFO 7212 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-28 12:40:55.810  INFO 7212 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1433 ms
+2022-01-28 12:40:56.246  INFO 7212 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-01-28 12:40:56.259  INFO 7212 --- [cluster-rtt-ClusterId{value='61f397009fc24c41259e79b2', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:4, serverValue:14}] to localhost:27017
+2022-01-28 12:40:56.259  INFO 7212 --- [cluster-ClusterId{value='61f397009fc24c41259e79b2', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:3, serverValue:13}] to localhost:27017
+2022-01-28 12:40:56.262  INFO 7212 --- [cluster-ClusterId{value='61f397009fc24c41259e79b2', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=7671900}
+2022-01-28 12:40:56.286  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:40:56.415  WARN 7212 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-01-28 12:40:56.478  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:40:56.853  INFO 7212 --- [restartedMain] o.s.c.openfeign.FeignClientFactoryBean   : For 'user-service' URL not provided. Will try picking an instance via load-balancing.
+2022-01-28 12:40:59.177  INFO 7212 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2022-01-28 12:40:59.287  WARN 7212 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-01-28 12:40:59.307  INFO 7212 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-01-28 12:40:59.380  INFO 7212 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2022-01-28 12:40:59.385  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2022-01-28 12:40:59.385  INFO 7212 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:40:59.405  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2022-01-28 12:40:59.405  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2022-01-28 12:40:59.406  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2022-01-28 12:40:59.406  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2022-01-28 12:40:59.406  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2022-01-28 12:40:59.406  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2022-01-28 12:40:59.406  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2022-01-28 12:40:59.430  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2022-01-28 12:40:59.432  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2022-01-28 12:40:59.433  INFO 7212 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-01-28 12:40:59.435  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1643353859435 with initial instances count: 5
+2022-01-28 12:40:59.451  INFO 7212 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application CONFIG-SERVER with eureka with status UP
+2022-01-28 12:40:59.451  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643353859451, current=UP, previous=STARTING]
+2022-01-28 12:40:59.452  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:40:59.454  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10090 (http) with context path ''
+2022-01-28 12:40:59.456  INFO 7212 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 10090
+2022-01-28 12:40:59.475  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:40:59.805  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : Started RatingsServiceApplication in 7.132 seconds (JVM running for 1750.796)
+2022-01-28 12:40:59.811  INFO 7212 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-01-28 12:41:29.863  INFO 7212 --- [http-nio-10090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-28 12:41:29.863  INFO 7212 --- [http-nio-10090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-01-28 12:41:29.866  INFO 7212 --- [http-nio-10090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2022-01-28 12:41:29.883  INFO 7212 --- [http-nio-10090-exec-1] c.i.rating.controller.RatingsController  : Inside RatingsController :: getMovieRatings()
+2022-01-28 12:41:34.467 DEBUG 7212 --- [http-nio-10090-exec-1] o.s.data.mongodb.core.MongoTemplate      : Executing aggregation: [{ "$match" : { "movieId" : 1}}, { "$group" : { "_id" : "$movieId", "ratings" : { "$avg" : "$ratings"}}}] in collection ratings
+2022-01-28 12:41:34.891  INFO 7212 --- [http-nio-10090-exec-1] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:5, serverValue:15}] to localhost:27017
+2022-01-28 12:44:51.587  INFO 7212 --- [http-nio-10090-exec-3] c.i.rating.controller.RatingsController  : Inside RatingsController :: getMovieRatings()
+2022-01-28 12:45:09.415 DEBUG 7212 --- [http-nio-10090-exec-3] o.s.data.mongodb.core.MongoTemplate      : Executing aggregation: [{ "$match" : { "movieId" : 3}}, { "$group" : { "_id" : "$movieId", "ratings" : { "$avg" : "$ratings"}}}] in collection ratings
+2022-01-28 12:45:59.423  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:47:29.276  INFO 7212 --- [http-nio-10090-exec-4] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 12:47:33.731 DEBUG 7212 --- [http-nio-10090-exec-4] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 8} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 12:50:59.433  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:53:09.517  INFO 7212 --- [Thread-10] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CONFIG-SERVER with eureka with status DOWN
+2022-01-28 12:53:09.519  INFO 7212 --- [Thread-10] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643354589519, current=DOWN, previous=UP]
+2022-01-28 12:53:09.522  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:53:09.540  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:53:10.035  INFO 7212 --- [Thread-10] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2022-01-28 12:53:13.052  INFO 7212 --- [Thread-10] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2022-01-28 12:53:13.064  INFO 7212 --- [Thread-10] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - deregister  status: 200
+2022-01-28 12:53:13.080  INFO 7212 --- [Thread-10] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2022-01-28 12:53:14.457  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at : http://192.168.0.103:8888/
+2022-01-28 12:53:15.068  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=ratings-service, profiles=[default], label=null, version=f9f50d9e933f7cd2a82bdca3cb5604b2176402e0, state=null
+2022-01-28 12:53:15.069  INFO 7212 --- [restartedMain] b.c.PropertySourceBootstrapConfiguration : Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\ratings-service.properties'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\application.properties'}]
+2022-01-28 12:53:15.092  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : No active profile set, falling back to default profiles: default
+2022-01-28 12:53:15.635  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-01-28 12:53:15.644  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 1 MongoDB repository interfaces.
+2022-01-28 12:53:15.733  INFO 7212 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=f1cf397f-151e-3da4-919e-d7ddfd3e0ffc
+2022-01-28 12:53:15.987  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10090 (http)
+2022-01-28 12:53:15.987  INFO 7212 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-28 12:53:15.988  INFO 7212 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-28 12:53:16.008  INFO 7212 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-28 12:53:16.008  INFO 7212 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 907 ms
+2022-01-28 12:53:16.307  INFO 7212 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-01-28 12:53:16.314  INFO 7212 --- [cluster-ClusterId{value='61f399e49fc24c41259e79b3', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:6, serverValue:16}] to localhost:27017
+2022-01-28 12:53:16.315  INFO 7212 --- [cluster-rtt-ClusterId{value='61f399e49fc24c41259e79b3', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:7, serverValue:17}] to localhost:27017
+2022-01-28 12:53:16.317  INFO 7212 --- [cluster-ClusterId{value='61f399e49fc24c41259e79b3', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4331200}
+2022-01-28 12:53:16.335  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:53:16.408  WARN 7212 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-01-28 12:53:16.448  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:53:16.758  INFO 7212 --- [restartedMain] o.s.c.openfeign.FeignClientFactoryBean   : For 'user-service' URL not provided. Will try picking an instance via load-balancing.
+2022-01-28 12:53:18.555  INFO 7212 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2022-01-28 12:53:18.686  WARN 7212 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-01-28 12:53:18.708  INFO 7212 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-01-28 12:53:18.779  INFO 7212 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2022-01-28 12:53:18.785  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2022-01-28 12:53:18.785  INFO 7212 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:53:18.786  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2022-01-28 12:53:18.786  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2022-01-28 12:53:18.787  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2022-01-28 12:53:18.787  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2022-01-28 12:53:18.787  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2022-01-28 12:53:18.787  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2022-01-28 12:53:18.787  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2022-01-28 12:53:18.808  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2022-01-28 12:53:18.810  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2022-01-28 12:53:18.811  INFO 7212 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-01-28 12:53:18.812  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1643354598812 with initial instances count: 5
+2022-01-28 12:53:18.831  INFO 7212 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application CONFIG-SERVER with eureka with status UP
+2022-01-28 12:53:18.831  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643354598831, current=UP, previous=STARTING]
+2022-01-28 12:53:18.833  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:53:18.835  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10090 (http) with context path ''
+2022-01-28 12:53:18.836  INFO 7212 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 10090
+2022-01-28 12:53:18.856  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:53:19.193  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : Started RatingsServiceApplication in 5.728 seconds (JVM running for 2490.184)
+2022-01-28 12:53:19.197  INFO 7212 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-01-28 12:54:51.788  INFO 7212 --- [Thread-17] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CONFIG-SERVER with eureka with status DOWN
+2022-01-28 12:54:51.788  INFO 7212 --- [Thread-17] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643354691788, current=DOWN, previous=UP]
+2022-01-28 12:54:51.789  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:54:51.809  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:54:52.131  INFO 7212 --- [Thread-17] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2022-01-28 12:54:55.143  INFO 7212 --- [Thread-17] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2022-01-28 12:54:55.157  INFO 7212 --- [Thread-17] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - deregister  status: 200
+2022-01-28 12:54:55.179  INFO 7212 --- [Thread-17] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2022-01-28 12:54:56.421  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at : http://192.168.0.103:8888/
+2022-01-28 12:54:56.975  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=ratings-service, profiles=[default], label=null, version=f9f50d9e933f7cd2a82bdca3cb5604b2176402e0, state=null
+2022-01-28 12:54:56.975  INFO 7212 --- [restartedMain] b.c.PropertySourceBootstrapConfiguration : Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\ratings-service.properties'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\application.properties'}]
+2022-01-28 12:54:56.996  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : No active profile set, falling back to default profiles: default
+2022-01-28 12:54:58.104  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-01-28 12:54:58.123  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 18 ms. Found 1 MongoDB repository interfaces.
+2022-01-28 12:54:58.317  INFO 7212 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=f1cf397f-151e-3da4-919e-d7ddfd3e0ffc
+2022-01-28 12:54:58.777  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10090 (http)
+2022-01-28 12:54:58.778  INFO 7212 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-28 12:54:58.779  INFO 7212 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-28 12:54:58.805  INFO 7212 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-28 12:54:58.805  INFO 7212 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1797 ms
+2022-01-28 12:54:59.237  INFO 7212 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-01-28 12:54:59.261  INFO 7212 --- [cluster-ClusterId{value='61f39a4b9fc24c41259e79b4', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:8, serverValue:18}] to localhost:27017
+2022-01-28 12:54:59.263  INFO 7212 --- [cluster-ClusterId{value='61f39a4b9fc24c41259e79b4', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=7332600}
+2022-01-28 12:54:59.265  INFO 7212 --- [cluster-rtt-ClusterId{value='61f39a4b9fc24c41259e79b4', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:9, serverValue:19}] to localhost:27017
+2022-01-28 12:54:59.294  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:54:59.393  WARN 7212 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-01-28 12:54:59.447  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:54:59.685  INFO 7212 --- [restartedMain] o.s.c.openfeign.FeignClientFactoryBean   : For 'user-service' URL not provided. Will try picking an instance via load-balancing.
+2022-01-28 12:55:01.743  INFO 7212 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2022-01-28 12:55:01.896  WARN 7212 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-01-28 12:55:01.915  INFO 7212 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-01-28 12:55:01.997  INFO 7212 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2022-01-28 12:55:02.004  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2022-01-28 12:55:02.004  INFO 7212 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:55:02.006  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2022-01-28 12:55:02.006  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2022-01-28 12:55:02.006  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2022-01-28 12:55:02.006  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2022-01-28 12:55:02.006  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2022-01-28 12:55:02.006  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2022-01-28 12:55:02.006  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2022-01-28 12:55:02.032  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2022-01-28 12:55:02.034  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2022-01-28 12:55:02.035  INFO 7212 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-01-28 12:55:02.036  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1643354702036 with initial instances count: 3
+2022-01-28 12:55:02.055  INFO 7212 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application CONFIG-SERVER with eureka with status UP
+2022-01-28 12:55:02.056  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643354702056, current=UP, previous=STARTING]
+2022-01-28 12:55:02.056  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:55:02.059  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10090 (http) with context path ''
+2022-01-28 12:55:02.060  INFO 7212 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 10090
+2022-01-28 12:55:02.082  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:55:02.485  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : Started RatingsServiceApplication in 6.851 seconds (JVM running for 2593.477)
+2022-01-28 12:55:02.490  INFO 7212 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-01-28 12:55:09.953  INFO 7212 --- [Thread-24] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CONFIG-SERVER with eureka with status DOWN
+2022-01-28 12:55:09.954  INFO 7212 --- [Thread-24] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643354709954, current=DOWN, previous=UP]
+2022-01-28 12:55:09.956  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:55:09.983  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:55:10.240  INFO 7212 --- [Thread-24] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2022-01-28 12:55:13.253  INFO 7212 --- [Thread-24] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2022-01-28 12:55:13.267  INFO 7212 --- [Thread-24] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - deregister  status: 200
+2022-01-28 12:55:13.281  INFO 7212 --- [Thread-24] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2022-01-28 12:55:14.604  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at : http://192.168.0.103:8888/
+2022-01-28 12:55:15.165  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=ratings-service, profiles=[default], label=null, version=f9f50d9e933f7cd2a82bdca3cb5604b2176402e0, state=null
+2022-01-28 12:55:15.165  INFO 7212 --- [restartedMain] b.c.PropertySourceBootstrapConfiguration : Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\ratings-service.properties'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\application.properties'}]
+2022-01-28 12:55:15.178  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : No active profile set, falling back to default profiles: default
+2022-01-28 12:55:15.714  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-01-28 12:55:15.723  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 1 MongoDB repository interfaces.
+2022-01-28 12:55:15.813  INFO 7212 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=f1cf397f-151e-3da4-919e-d7ddfd3e0ffc
+2022-01-28 12:55:16.007  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10090 (http)
+2022-01-28 12:55:16.008  INFO 7212 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-28 12:55:16.008  INFO 7212 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-28 12:55:16.026  INFO 7212 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-28 12:55:16.026  INFO 7212 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 842 ms
+2022-01-28 12:55:16.323  INFO 7212 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-01-28 12:55:16.328  INFO 7212 --- [cluster-rtt-ClusterId{value='61f39a5c9fc24c41259e79b5', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:10, serverValue:22}] to localhost:27017
+2022-01-28 12:55:16.331  INFO 7212 --- [cluster-ClusterId{value='61f39a5c9fc24c41259e79b5', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:11, serverValue:23}] to localhost:27017
+2022-01-28 12:55:16.333  INFO 7212 --- [cluster-ClusterId{value='61f39a5c9fc24c41259e79b5', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4227500}
+2022-01-28 12:55:16.355  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:55:16.426  WARN 7212 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-01-28 12:55:16.470  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:55:16.680  INFO 7212 --- [restartedMain] o.s.c.openfeign.FeignClientFactoryBean   : For 'user-service' URL not provided. Will try picking an instance via load-balancing.
+2022-01-28 12:55:18.372  INFO 7212 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2022-01-28 12:55:18.475  WARN 7212 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-01-28 12:55:18.492  INFO 7212 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-01-28 12:55:18.556  INFO 7212 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2022-01-28 12:55:18.561  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2022-01-28 12:55:18.561  INFO 7212 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:55:18.562  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2022-01-28 12:55:18.562  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2022-01-28 12:55:18.562  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2022-01-28 12:55:18.562  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2022-01-28 12:55:18.562  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2022-01-28 12:55:18.562  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2022-01-28 12:55:18.563  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2022-01-28 12:55:18.581  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2022-01-28 12:55:18.582  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2022-01-28 12:55:18.583  INFO 7212 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-01-28 12:55:18.584  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1643354718584 with initial instances count: 3
+2022-01-28 12:55:18.597  INFO 7212 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application CONFIG-SERVER with eureka with status UP
+2022-01-28 12:55:18.597  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643354718597, current=UP, previous=STARTING]
+2022-01-28 12:55:18.598  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:55:18.600  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10090 (http) with context path ''
+2022-01-28 12:55:18.601  INFO 7212 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 10090
+2022-01-28 12:55:18.620  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:55:18.992  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : Started RatingsServiceApplication in 5.194 seconds (JVM running for 2609.983)
+2022-01-28 12:55:19.001  INFO 7212 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-01-28 12:55:42.129  INFO 7212 --- [Thread-31] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CONFIG-SERVER with eureka with status DOWN
+2022-01-28 12:55:42.130  INFO 7212 --- [Thread-31] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643354742130, current=DOWN, previous=UP]
+2022-01-28 12:55:42.145  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:55:42.162  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:55:42.445  INFO 7212 --- [Thread-31] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2022-01-28 12:55:45.461  INFO 7212 --- [Thread-31] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2022-01-28 12:55:45.481  INFO 7212 --- [Thread-31] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - deregister  status: 200
+2022-01-28 12:55:45.499  INFO 7212 --- [Thread-31] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2022-01-28 12:55:46.660  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at : http://192.168.0.103:8888/
+2022-01-28 12:55:47.254  INFO 7212 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=ratings-service, profiles=[default], label=null, version=f9f50d9e933f7cd2a82bdca3cb5604b2176402e0, state=null
+2022-01-28 12:55:47.255  INFO 7212 --- [restartedMain] b.c.PropertySourceBootstrapConfiguration : Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\ratings-service.properties'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/akash386/spring-cloud-samples/file:C:\config-repo\application.properties'}]
+2022-01-28 12:55:47.277  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : No active profile set, falling back to default profiles: default
+2022-01-28 12:55:47.931  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-01-28 12:55:47.939  INFO 7212 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 1 MongoDB repository interfaces.
+2022-01-28 12:55:48.037  INFO 7212 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=f1cf397f-151e-3da4-919e-d7ddfd3e0ffc
+2022-01-28 12:55:48.325  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10090 (http)
+2022-01-28 12:55:48.326  INFO 7212 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-28 12:55:48.326  INFO 7212 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-28 12:55:48.343  INFO 7212 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-28 12:55:48.343  INFO 7212 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1055 ms
+2022-01-28 12:55:48.664  INFO 7212 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-01-28 12:55:48.670  INFO 7212 --- [cluster-rtt-ClusterId{value='61f39a7c9fc24c41259e79b6', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:13, serverValue:25}] to localhost:27017
+2022-01-28 12:55:48.669  INFO 7212 --- [cluster-ClusterId{value='61f39a7c9fc24c41259e79b6', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:12, serverValue:24}] to localhost:27017
+2022-01-28 12:55:48.672  INFO 7212 --- [cluster-ClusterId{value='61f39a7c9fc24c41259e79b6', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=2738000}
+2022-01-28 12:55:48.698  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:55:48.766  WARN 7212 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-01-28 12:55:48.807  WARN 7212 --- [restartedMain] o.s.data.convert.CustomConversions       : Registering converter from class java.time.LocalDateTime to class org.joda.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might want to check your annotation setup at the converter implementation.
+2022-01-28 12:55:48.996  INFO 7212 --- [restartedMain] o.s.c.openfeign.FeignClientFactoryBean   : For 'user-service' URL not provided. Will try picking an instance via load-balancing.
+2022-01-28 12:55:50.686  INFO 7212 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2022-01-28 12:55:50.790  WARN 7212 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-01-28 12:55:50.807  INFO 7212 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-01-28 12:55:50.866  INFO 7212 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2022-01-28 12:55:50.871  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2022-01-28 12:55:50.871  INFO 7212 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 12:55:50.872  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2022-01-28 12:55:50.872  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2022-01-28 12:55:50.872  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2022-01-28 12:55:50.872  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2022-01-28 12:55:50.873  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2022-01-28 12:55:50.873  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2022-01-28 12:55:50.873  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2022-01-28 12:55:50.890  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2022-01-28 12:55:50.891  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2022-01-28 12:55:50.892  INFO 7212 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-01-28 12:55:50.893  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1643354750893 with initial instances count: 5
+2022-01-28 12:55:50.943  INFO 7212 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application CONFIG-SERVER with eureka with status UP
+2022-01-28 12:55:50.944  INFO 7212 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643354750944, current=UP, previous=STARTING]
+2022-01-28 12:55:50.944  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 12:55:50.947  INFO 7212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10090 (http) with context path ''
+2022-01-28 12:55:50.948  INFO 7212 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 10090
+2022-01-28 12:55:50.963  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 12:55:51.284  INFO 7212 --- [restartedMain] c.i.rating.RatingsServiceApplication     : Started RatingsServiceApplication in 5.387 seconds (JVM running for 2642.275)
+2022-01-28 12:55:51.287  INFO 7212 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-01-28 13:00:50.879  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:05:50.888  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:10:50.892  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:15:50.901  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:20:50.908  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:25:50.913  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:30:50.922  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:35:50.934  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:40:50.946  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:45:50.952  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:50:50.966  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 13:55:50.982  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:00:50.985  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:05:50.999  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:10:51.006  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:15:51.012  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:20:51.021  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:25:51.037  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:30:51.039  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:35:51.043  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:40:51.052  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:45:51.057  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:46:09.205  INFO 7212 --- [http-nio-10090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-28 14:46:09.207  INFO 7212 --- [http-nio-10090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-01-28 14:46:09.381  INFO 7212 --- [http-nio-10090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 173 ms
+2022-01-28 14:46:09.744  INFO 7212 --- [http-nio-10090-exec-1] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 14:46:16.219 DEBUG 7212 --- [http-nio-10090-exec-1] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 8} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 14:46:46.218  INFO 7212 --- [http-nio-10090-exec-1] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:14, serverValue:29}] to localhost:27017
+2022-01-28 14:49:02.836  INFO 7212 --- [http-nio-10090-exec-2] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 14:49:07.850 DEBUG 7212 --- [http-nio-10090-exec-2] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 8} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 14:49:57.076  INFO 7212 --- [http-nio-10090-exec-3] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 14:49:57.078 DEBUG 7212 --- [http-nio-10090-exec-3] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 8} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 14:49:59.094  INFO 7212 --- [http-nio-10090-exec-4] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 14:49:59.095 DEBUG 7212 --- [http-nio-10090-exec-4] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 8} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 14:50:02.865  INFO 7212 --- [http-nio-10090-exec-5] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 14:50:02.867 DEBUG 7212 --- [http-nio-10090-exec-5] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 7} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 14:50:07.083  INFO 7212 --- [http-nio-10090-exec-6] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 14:50:07.090 DEBUG 7212 --- [http-nio-10090-exec-6] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 1} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 14:50:08.057  INFO 7212 --- [http-nio-10090-exec-7] c.i.rating.controller.RatingsController  : Inside RatingsController :: getMovieRatings()
+2022-01-28 14:50:08.069 DEBUG 7212 --- [http-nio-10090-exec-7] o.s.data.mongodb.core.MongoTemplate      : Executing aggregation: [{ "$match" : { "movieId" : 1}}, { "$group" : { "_id" : "$movieId", "ratings" : { "$avg" : "$ratings"}}}] in collection ratings
+2022-01-28 14:50:27.684  INFO 7212 --- [http-nio-10090-exec-8] c.i.rating.controller.RatingsController  : Inside RatingsController :: getMovieRatings()
+2022-01-28 14:50:27.687 DEBUG 7212 --- [http-nio-10090-exec-8] o.s.data.mongodb.core.MongoTemplate      : Executing aggregation: [{ "$match" : { "movieId" : 3}}, { "$group" : { "_id" : "$movieId", "ratings" : { "$avg" : "$ratings"}}}] in collection ratings
+2022-01-28 14:50:51.067  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 14:55:51.076  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:00:51.085  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:05:51.101  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:09:57.848  INFO 7212 --- [http-nio-10090-exec-1] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 15:09:57.924 DEBUG 7212 --- [http-nio-10090-exec-1] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 1} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 15:10:22.668  INFO 7212 --- [http-nio-10090-exec-2] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 15:10:22.669 DEBUG 7212 --- [http-nio-10090-exec-2] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 1} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 15:10:51.120  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:13:18.675  INFO 7212 --- [http-nio-10090-exec-4] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 15:13:26.568 DEBUG 7212 --- [http-nio-10090-exec-4] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 1} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 15:15:51.138  INFO 7212 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2022-01-28 15:17:51.429  INFO 7212 --- [http-nio-10090-exec-6] c.i.rating.controller.RatingsController  : Inside RatingsController :: getUserRatings()
+2022-01-28 15:17:51.430 DEBUG 7212 --- [http-nio-10090-exec-6] o.s.data.mongodb.core.MongoTemplate      : find using query: { "userId" : 1} fields: Document{{}} for class: class com.intech.rating.model.Ratings in collection: ratings
+2022-01-28 15:20:13.989  INFO 7212 --- [RMI TCP Connection(191)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-01-28 15:20:14.026  INFO 7212 --- [RMI TCP Connection(191)-127.0.0.1] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CONFIG-SERVER with eureka with status DOWN
+2022-01-28 15:20:14.026  INFO 7212 --- [RMI TCP Connection(191)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1643363414026, current=DOWN, previous=UP]
+2022-01-28 15:20:14.028  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090: registering service...
+2022-01-28 15:20:14.078  INFO 7212 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - registration status: 204
+2022-01-28 15:20:14.305  INFO 7212 --- [RMI TCP Connection(191)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-01-28 15:20:14.312  INFO 7212 --- [RMI TCP Connection(191)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-01-28 15:20:14.423  INFO 7212 --- [RMI TCP Connection(191)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2022-01-28 15:20:17.448  INFO 7212 --- [RMI TCP Connection(191)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2022-01-28 15:20:17.463  INFO 7212 --- [RMI TCP Connection(191)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONFIG-SERVER/host.docker.internal:ratings-service:10090 - deregister  status: 200
+2022-01-28 15:20:17.517  INFO 7212 --- [RMI TCP Connection(191)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
